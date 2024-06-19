@@ -2,7 +2,9 @@ MiniGames is project made in Java.
 
 
 1)Jumpy(Skočko)
+
 2)Maze(Lavirinta)
+
 3)Hangman(Vešala)
 
 
